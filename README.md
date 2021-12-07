@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prince
 - 👀 I’m tech Enthusiast
 - 🌱 I’m currently learning web development
-- ✨ Web developer
+- ✨ JAVASCRIPT || HTML || CSS || React JS
 
 
 <!---
