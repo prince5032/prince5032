@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince
 - 😍 Interested in Programming and software development
-- 🌱 I’m currently learning web3 development
+- 🌱 I’m currently learning web development
 - ✨ JAVASCRIPT || React.JS || Node.js || MongoDB 
 
 
