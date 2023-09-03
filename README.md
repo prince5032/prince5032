@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate Software developer from Delhi, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince5032&label=Profile%20views&color=0e75b6&style=flat" alt="prince5032" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince5032&label=Profile%20views&color=0e75b6&style=flat" alt="prince5032" /> </p>
+ 
 - 🌱 I’m currently learning **React.js, Node.js**
 
 - 💬 Ask me about **C++, Data Structures and Algorithm**
-
-- 📫 How to reach me **prince2305pal@gmail.com**
 
 - ⚡ Fun fact **Coffee is my fuel**
 
