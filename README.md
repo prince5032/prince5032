@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/prince5032/prince5032/assets/90514663/240e9375-c71e-4592-a1c4-5414710d986e)
+[![MasterHead](https://github.com/prince5032/prince5032/assets/90514663/240e9375-c71e-4592-a1c4-5414710d986e)
 
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate Software developer from Delhi, India</h3>
