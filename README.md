@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#query=development&position=0&from_view=keyword&track=sph)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fchkskills.com%2Fweb-development%2F&psig=AOvVaw1xOzutkDsCqQKWDY2xMeH3&ust=1694030752388000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiblryilIEDFQAAAAAdAAAAABAe)
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate Software developer from Delhi, India</h3>
 
