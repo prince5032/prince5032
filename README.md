@@ -5,9 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince5032&label=Profile%20views&color=0e75b6&style=flat" alt="prince5032" /> </p>
  
 - 🌱 I’m currently learning **React.js, Node.js**
-
+- 🌻 MongoDb || MySql || JavaScript || Sql
 - 💬 Ask me about **C++, Data Structures and Algorithm**
-
 - ⚡ Fun fact **Coffee is my fuel**
 
 <h3 align="left">Connect with me:</h3>
